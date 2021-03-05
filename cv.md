@@ -1,7 +1,7 @@
-**Surname/Family name**:***Pranevich***  
-**First name**: ***Anastasiya***  
-**Telephone**: +375 29 206 09 44  
-**Email**: tip.top.toti@gmail.com
+##Surname/Family name:***Pranevich***  
+##First name: ***Anastasiya***  
+##Telephone: +375 29 206 09 44  
+##Email: tip.top.toti@gmail.com
 
 ***
 ### Education and qualifications:  
